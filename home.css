@@ -1,0 +1,208 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #343a40 ;
+    padding: 15px 0;
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+    font-size: 1.5rem;
+    color: white;
+}
+
+.navbar-brand img {
+    height: 70px;
+    width: auto;
+    border-radius: 10px;
+}
+
+.navbar-nav {
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+}
+
+.navbar-nav .nav-item {
+    margin: 0 15px;
+}
+
+.navbar-nav .nav-link {
+    color: white;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.booking-container {
+    max-width: 700px;
+    margin: 50px auto;
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.booking-box {
+    padding: 20px;
+}
+
+.booking-box .form-label {
+    font-weight: bold;
+}
+
+.btn-danger {
+    background-color: #007bff;
+    border: none;
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding: 10px 20px;
+}
+
+.btn-danger:hover {
+    background-color: #0056b3;
+}
+
+.dropdown-menu {
+    position: absolute;
+    width: 100%;
+}
+#booking-details {
+    background: white;
+    max-width: 400px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    display: none;
+}
+
+#booking-details h3 {
+    text-align: center;
+    font-size: 1.5rem;
+    color: #007bff;
+    margin-bottom: 15px;
+}
+
+#inline-booking-form div {
+    margin-bottom: 15px;
+}
+
+#inline-booking-form label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+
+#inline-booking-form input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#total-price {
+    background: #f1f1f1;
+    font-weight: bold;
+    color: #333;
+}
+
+#error-message {
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+
+#confirm-booking {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 100%;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+#confirm-booking:hover {
+    background-color: #218838;
+}
+
+#confirm-booking a {
+    text-decoration: none;
+    color: white;
+}
+
+#booking-details {
+    background: white;
+    max-width: 400px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    margin: 20px auto; 
+    display: none;
+    text-align: center;
+}
+
+#booking-details h3 {
+    font-size: 1.5rem;
+    color: #007bff;
+    margin-bottom: 15px;
+}
+
+#inline-booking-form div {
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+#inline-booking-form label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+
+#inline-booking-form input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#total-price {
+    background: #f1f1f1;
+    font-weight: bold;
+    color: #333;
+}
+
+#error-message {
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+
+#confirm-booking {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 100%;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+#confirm-booking:hover {
+    background-color: #218838;
+}
+
+#confirm-booking a {
+    text-decoration: none;
+    color: white;
+}

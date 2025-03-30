@@ -1,0 +1,180 @@
+{
+    "buses": [
+      {
+        "id": 1,
+        "departure": "Nairobi",
+        "arrival": "Karen",
+        "date": "2025-04-01",
+        "time": "08:00 AM",
+        "price": "200 KES",
+        "seatsAvailable": 12,
+        "plateNumber": "KDA 123A",
+        "routeType": "With Stops (Ngong Road, Junction)"
+      },
+      {
+        "id": 2,
+        "departure": "Nairobi",
+        "arrival": "Karen",
+        "date": "2025-04-01",
+        "time": "12:00 PM",
+        "price": "250 KES",
+        "seatsAvailable": 10,
+        "plateNumber": "KDB 456B",
+        "routeType": "Express"
+      },
+      {
+        "id": 3,
+        "departure": "Nairobi",
+        "arrival": "JKIA",
+        "date": "2025-04-01",
+        "time": "06:30 AM",
+        "price": "300 KES",
+        "seatsAvailable": 8,
+        "plateNumber": "KDC 789C",
+        "routeType": "With Stops (Mombasa Road, Syokimau)"
+      },
+      {
+        "id": 4,
+        "departure": "Nairobi",
+        "arrival": "JKIA",
+        "date": "2025-04-01",
+        "time": "02:30 PM",
+        "price": "350 KES",
+        "seatsAvailable": 6,
+        "plateNumber": "KDD 321D",
+        "routeType": "Express"
+      },
+      {
+        "id": 5,
+        "departure": "Nairobi",
+        "arrival": "Embu",
+        "date": "2025-04-01",
+        "time": "07:00 AM",
+        "price": "900 KES",
+        "seatsAvailable": 20,
+        "plateNumber": "KDF 987F",
+        "routeType": "Express"
+      },
+      {
+        "id": 6,
+        "departure": "Nairobi",
+        "arrival": "Embu",
+        "date": "2025-04-01",
+        "time": "11:00 AM",
+        "price": "800 KES",
+        "seatsAvailable": 18,
+        "plateNumber": "KDG 222G",
+        "routeType": "With Stops (Thika, Mwea)"
+      },
+      {
+        "id": 7,
+        "departure": "Nairobi",
+        "arrival": "Mombasa",
+        "date": "2025-04-01",
+        "time": "10:00 AM",
+        "price": "2500 KES",
+        "seatsAvailable": 8,
+        "plateNumber": "KDH 333H",
+        "routeType": "Express"
+      },
+      {
+        "id": 8,
+        "departure": "Nairobi",
+        "arrival": "Kisumu",
+        "date": "2025-04-01",
+        "time": "09:00 AM",
+        "price": "2800 KES",
+        "seatsAvailable": 15,
+        "plateNumber": "KDI 444I",
+        "routeType": "With Stops (Naivasha, Kericho)"
+      },
+      {
+        "id": 9,
+        "departure": "Nairobi",
+        "arrival": "Dar es Salaam",
+        "date": "2025-04-01",
+        "time": "05:00 AM",
+        "price": "5500 KES",
+        "seatsAvailable": 5,
+        "plateNumber": "KDJ 558J",
+        "routeType": "With Stops (Arusha, Dodoma)"
+      },
+      {
+        "id": 10,
+        "departure": "Juja",
+        "arrival": "Nairobi",
+        "date": "2025-04-01",
+        "time": "07:30 AM",
+        "price": "100 KES",
+        "seatsAvailable": 14,
+        "plateNumber": "KDK 767K",
+        "routeType": "With Stops (Kahawa, Githurai)"
+      },
+      {
+        "id": 11,
+        "departure": "Nairobi",
+        "arrival": "Addis Ababa",
+        "date": "2025-04-01",
+        "time": "07:00 AM",
+        "price": "6000 KES",
+        "seatsAvailable": 20,
+        "plateNumber": "KDL 777L",
+        "routeType": "Express"
+      },
+      {
+        "id": 12,
+        "departure": "Addis Ababa",
+        "arrival": "Nairobi",
+        "date": "2025-04-01",
+        "time": "04:00 PM",
+        "price": "5800 KES",
+        "seatsAvailable": 20,
+        "plateNumber": "KDM 888M",
+        "routeType": "Express"
+      },
+      {
+        "id": 13,
+        "departure": "Nairobi",
+        "arrival": "Arusha",
+        "date": "2025-04-01",
+        "time": "06:00 AM",
+        "price": "3200 KES",
+        "seatsAvailable": 15,
+        "plateNumber": "KDN 999N",
+        "routeType": "Express"
+      },
+      {
+        "id": 14,
+        "departure": "Arusha",
+        "arrival": "Nairobi",
+        "date": "2025-04-01",
+        "time": "03:00 PM",
+        "price": "3000 KES",
+        "seatsAvailable": 15,
+        "plateNumber": "KDO 101O",
+        "routeType": "Express"
+      },
+      {
+        "id": 15,
+        "departure": "Nairobi",
+        "arrival": "Kigali",
+        "date": "2025-04-01",
+        "time": "08:30 AM",
+        "price": "4500 KES",
+        "seatsAvailable": 10,
+        "plateNumber": "KDP 202P",
+        "routeType": "Express"
+      },
+      {
+        "id": 16,
+        "departure": "Kigali",
+        "arrival": "Nairobi",
+        "date": "2025-04-01",
+        "time": "05:30 PM",
+        "price": "4300 KES",
+        "seatsAvailable": 10,
+        "plateNumber": "KDQ 303Q",
+        "routeType": "Express"
+      }
+    ]
+  }
